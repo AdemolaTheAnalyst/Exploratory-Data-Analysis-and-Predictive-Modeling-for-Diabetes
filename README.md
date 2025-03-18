@@ -1,4 +1,6 @@
-# *Diabetes Prediction Data Analysis*  
+# *Diabetes Prediction Data Analysis* 
+![WhatsApp Image 2025-03-18 at 18 12 35_7ce44ea3](https://github.com/user-attachments/assets/3629ad38-ef9c-4cf2-835a-5eeb1811fe4c)
+
 
 ## *Introduction*  
 Diabetes is a chronic health condition affecting millions worldwide. Understanding its risk factors can help in early detection and prevention. This project analyzes a diabetes dataset to explore the relationships between various health indicators and diabetes outcomes. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to uncover key insights.
